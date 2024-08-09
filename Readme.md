@@ -67,6 +67,7 @@ No installation is required for this project. Simply clone the repository or dow
 
 Watch a video demo of the Product Management System:
 
-<video width="600" controls>
-  <source src="assets/cruds .mp4" type="video/mp4">
+<video width="640" height="480" controls>
+  <source src="https://github.com/Shahd-Elmnyar/CRUD/raw/main/assets/cruds%20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
