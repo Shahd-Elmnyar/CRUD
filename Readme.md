@@ -64,11 +64,4 @@ No installation is required for this project. Simply clone the repository or dow
 
 - This project is compatible with modern web browsers such as Chrome, Firefox, Safari, and Edge.
 
-## Demo
 
-Watch a video demo of the Product Management System:
-
-<video width="600" controls>
-  <source src="assets/cruds operations.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
