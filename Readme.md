@@ -63,11 +63,3 @@ No installation is required for this project. Simply clone the repository or dow
 ## Compatibility
 
 - This project is compatible with modern web browsers such as Chrome, Firefox, Safari, and Edge.
-
-
-Watch a video demo of the Product Management System:
-
-## Video Demonstration
-
-[Watch the CRUD Video](https://github.com/Shahd-Elmnyar/CRUD/raw/main/assets/cruds%20.mp4)
-
