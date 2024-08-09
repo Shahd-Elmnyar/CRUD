@@ -64,7 +64,6 @@ No installation is required for this project. Simply clone the repository or dow
 
 - This project is compatible with modern web browsers such as Chrome, Firefox, Safari, and Edge.
 
-## Demo
 
 Watch a video demo of the Product Management System:
 
